@@ -1,0 +1,13 @@
+ab027056be86865d4c33bf9fbc92eac8 *DESCRIPTION
+ea79a04de57ecdab9dc8cb53bf84b9b3 *NAMESPACE
+3d4cd9a318bc42fe0dbd95100fdfa83b *R/bootsem.R
+8c7c73c7fc3876705c9d56190d05995b *R/fitsem.R
+c1b8d49fcef2b3b0490dcf75d72adccd *R/getedges.R
+d01499b309971fd365f2c0159bb8fa5a *data/simdata.RData
+5aad7211033d1b03b15e68d3ea145a68 *data/yeast.RData
+2b860ce1b5d3b4e919fa7f7b4385f441 *man/BigSEM-package.rd
+8476165e1f386523ef6dd14f924b3b34 *man/bootsem.rd
+23cc0febf834e16bca766c784cd5f2c5 *man/fitsem.rd
+bdec52c19e343db535e8e5ae8ad98b84 *man/getedges.rd
+c0f597d5138d7a5a8cab915e06dd690a *man/simdata.rd
+005230cfaf7108055ce38b32bfaf1598 *man/yeast.rd

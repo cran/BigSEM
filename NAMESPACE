@@ -1,0 +1,4 @@
+importFrom("MASS","lm.ridge")
+importFrom("parcor", "adalasso")
+importFrom("stats","aggregate")
+exportPattern("^[[:alpha:]]+")
